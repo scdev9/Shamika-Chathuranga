@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning Rocket Science and making Satellite.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (experimen999@gmail.com).
-- Websites= https://network.satnogs.org/stations/2618
--           https://shamikagroundstationlivenow.blogspot.com
+- Website= https://network.satnogs.org/stations/2618
+- Website= https://shamikagroundstationlivenow.blogspot.com
 
 <!---
 Shamika-Chathuranga/Shamika-Chathuranga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
