@@ -6,6 +6,7 @@
 - 📫 How to reach me (experimen999@gmail.com).
 - Website= https://network.satnogs.org/stations/2618
 - Website= https://shamikagroundstationlivenow.blogspot.com
+- Website= http://shamikalive.epizy.com
 
 <!---
 Shamika-Chathuranga/Shamika-Chathuranga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
